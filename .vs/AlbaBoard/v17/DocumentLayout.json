@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|c:\\users\\renan dias\\desktop\\projetos\\c#\\projetos asp\\albaboard\\albaboard\\albaboard\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|solutionrelative:albaboard\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|c:\\users\\renan dias\\desktop\\projetos\\c#\\projetos asp\\albaboard\\albaboard\\albaboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|solutionrelative:albaboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|c:\\users\\renan dias\\desktop\\projetos\\c#\\projetos asp\\albaboard\\albaboard\\albaboard\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|solutionrelative:albaboard\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|c:\\users\\renan dias\\desktop\\projetos\\c#\\projetos asp\\albaboard\\albaboard\\albaboard\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|solutionrelative:albaboard\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|c:\\users\\renan dias\\desktop\\projetos\\c#\\projetos asp\\albaboard\\albaboard\\albaboard\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|solutionrelative:albaboard\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|c:\\users\\renan dias\\desktop\\projetos\\c#\\projetos asp\\albaboard\\albaboard\\albaboard\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684B874-8813-4B59-A3D8-72C9876263B1}|AlbaBoard\\AlbaBoard.csproj|solutionrelative:albaboard\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\appsettings.json",
+              "RelativeDocumentMoniker": "AlbaBoard\\appsettings.json",
+              "ToolTip": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\appsettings.json",
+              "RelativeToolTip": "AlbaBoard\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T03:09:57.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "AlbaBoard\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "AlbaBoard\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:48:36.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Views\\Usuario\\Criar.cshtml",
+              "RelativeDocumentMoniker": "AlbaBoard\\Views\\Usuario\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Views\\Usuario\\Criar.cshtml",
+              "RelativeToolTip": "AlbaBoard\\Views\\Usuario\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:40:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AlbaBoard\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AlbaBoard\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:38:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "AlbaBoard\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "AlbaBoard\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:27:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlbaBoard\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Renan Dias\\Desktop\\Projetos\\c#\\Projetos ASP\\AlbaBoard\\AlbaBoard\\AlbaBoard\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "AlbaBoard\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T02:46:30.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

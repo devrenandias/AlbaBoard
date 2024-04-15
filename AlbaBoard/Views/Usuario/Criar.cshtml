@@ -1,0 +1,58 @@
+﻿@using AlbaBoard.Enums
+@model UsuarioModel
+@{
+    ViewData["Title"] = "Novo Usuario";
+}
+<div class="text-center">
+
+ 
+
+    <div class="text-center">
+        <h1 class="display-4"> AlbaBoard - Novo Usuario</h1>
+    </div>
+</div>
+    <form asp-controller="Usuario" asp-action="Criar" method="post">
+        
+        @*Mapeando cada input no asp-for*@
+        <div class="form-group">
+            <label for="nome">Nome</label>
+            <input type="text" asp-for="Name" class="form-control"  placeholder="Digite o nome do usuario">
+            @Html.ValidationMessageFor(x => x.Name)
+        </div>
+    <br />
+    <div class="form-group">
+        <label for="nome">Email</label>
+        <input type="text" asp-for="Email" class="form-control" placeholder="Digite o email do usuario">
+        @Html.ValidationMessageFor(x => x.Email)
+
+    </div>
+    <br />
+    <div class="form-group">
+        <label for="nome">Login</label>
+        <input type="text" asp-for="Login" class="form-control" placeholder="Digite o login do usuario">
+        @Html.ValidationMessageFor(x => x.Login)
+    </div>
+
+    <div class="form-group">
+        <label for="nome">Perfil</label>
+        <select asp-for="Perfil" class="form-control">
+            <option value="0"> Selecione</option>
+            <option value="@PerfilEnum.Admin"> Administrador</option>
+            <option value="@PerfilEnum.Padrao"> Padrão</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="nome">Senha</label>
+        <input type="text" asp-for="Senha" class="form-control" placeholder="Digite a senha do usuario">
+        @Html.ValidationMessageFor(x => x.Senha)
+    </div>
+       
+    <br>
+
+
+    <button type="submit" class="btn btn-primary btn-block">Adicionar</button>
+    <a class="btn btn-secondary" asp-controller="Usuario" asp-action="Index">Voltar</a>
+    </form>
+
+

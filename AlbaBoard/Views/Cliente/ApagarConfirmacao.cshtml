@@ -1,0 +1,23 @@
+﻿@model ClienteModel
+@{
+    ViewData["Title"] = "Confirmação de Exclusão do Cliente";
+}
+<div class="text-center">
+
+
+
+    <div class="text-center">
+        <h1 class="display-6"> AlbaBoard - Confirmação de Exclusão do Cliente</h1>
+    </div>
+
+    <br >
+    <div class="text-center">
+        <h2> <strong> Realmente deseja apagar o cadastro do Cliente? (@Model.Name)</strong></h2>
+    </div>
+
+
+
+    <a class="btn btn-primary" role="button" asp-controller="Cliente" asp-route-id="@Model.Id" asp-action="Apagar">Confirmar Exclusão</a>
+    <a class="btn btn-danger" role="button" asp-controller="Cliente"  asp-action="Index" >Cancelar Exclusão</a>
+
+    
