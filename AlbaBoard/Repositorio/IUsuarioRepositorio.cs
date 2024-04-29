@@ -4,6 +4,10 @@ namespace AlbaBoard.Repositorio
 {
     public interface IUsuarioRepositorio
     {
+
+        UsuarioModel BuscarPorLogin(string Login);
+
+
         //Listando dados do banco 
         List<UsuarioModel> BuscarTodos();
 

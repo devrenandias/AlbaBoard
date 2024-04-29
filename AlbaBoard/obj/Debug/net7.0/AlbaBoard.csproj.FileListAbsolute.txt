@@ -73,3 +73,5 @@ C:\Users\Renan Dias\Desktop\Projetos\c#\Projetos ASP\AlbaBoard\AlbaBoard\AlbaBoa
 C:\Users\Renan Dias\Desktop\Projetos\c#\Projetos ASP\AlbaBoard\AlbaBoard\AlbaBoard\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Renan Dias\Desktop\Projetos\c#\Projetos ASP\AlbaBoard\AlbaBoard\AlbaBoard\obj\Debug\net7.0\AlbaBoard.csproj.AssemblyReference.cache
 C:\Users\Renan Dias\Desktop\Projetos\c#\Projetos ASP\AlbaBoard\AlbaBoard\AlbaBoard\obj\Debug\net7.0\AlbaBoard.csproj.Up2Date
+C:\Users\Renan Dias\Desktop\Projetos\c#\Projetos ASP\AlbaBoard\AlbaBoard\AlbaBoard\obj\Debug\net7.0\AlbaBoard.sourcelink.json
+C:\Users\Renan Dias\Desktop\Projetos\c#\Projetos ASP\AlbaBoard\AlbaBoard\AlbaBoard\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
