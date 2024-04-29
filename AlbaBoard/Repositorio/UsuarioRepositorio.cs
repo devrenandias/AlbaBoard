@@ -13,12 +13,17 @@ namespace AlbaBoard.Repositorio
             //Injeção de Dependencia
             _bancoContext = bancoContext;
         }
+        public UsuarioModel BuscarPorLogin(string Login)
+        {
+            return _bancoContext.Usuarios.FirstOrDefault(x => x.Login.ToUpper() == Login.ToUpper());
+        }
+
 
         public UsuarioModel ListarPorId(int id)
         {
             return _bancoContext.Usuarios.FirstOrDefault( x => x.Id == id);
         }
-
+     
         public List<UsuarioModel> BuscarTodos()
         {
             return _bancoContext.Usuarios.ToList();
@@ -63,5 +68,7 @@ namespace AlbaBoard.Repositorio
             _bancoContext.SaveChanges();
             return true;
         }
+
+       
     }
 }

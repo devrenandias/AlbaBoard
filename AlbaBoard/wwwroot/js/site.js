@@ -6,7 +6,7 @@
 $(document).ready(function () {
 
     getDatatable('#table-clientes');
-    getDatatable('#table-usuarios');
+    getDatatable('#table-usuario');
 
 });
 
